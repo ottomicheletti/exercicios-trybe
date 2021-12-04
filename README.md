@@ -30,9 +30,8 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [x] 4.1 - _[Introdução - JavaScript](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.1)_
-- [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.2)_
-- [ ] 4.2 - JavaScript - Array e loop For
+- [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.1)_
+- [x] 4.2 - _[JavaScript - Array e loop For](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.2)_
 - [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [ ] 4.4 - JavaScript - Objetos e funções
 - [ ] 4.5 - Projeto - Playground Functions
