@@ -26,7 +26,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
 - [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.3)_
 - [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.4)_
-- [ ] 3.5 - Projeto - Lessons Learned
+- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/3.5)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
