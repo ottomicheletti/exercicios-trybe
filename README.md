@@ -33,7 +33,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.1)_
 - [x] 4.2 - _[JavaScript - Array e loop For](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.2)_
 - [x] 4.3 - _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.3)_
-- [ ] 4.4 - JavaScript - Objetos e funções
+- [x] 4.4 - _[JavaScript - Objetos e funções](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.4)_
 - [ ] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
