@@ -1,0 +1,223 @@
+/* stylelint-disable rule-empty-line-before */
+
+/* stylelint-disable selector-list-comma-space-before */
+
+/* stylelint-disable selector-list-comma-space-after */
+
+/* stylelint-disable no-descending-specificity */
+
+/* stylelint-disable font-family-name-quotes */
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: block;
+}
+
+/* Problema 1 ✅ */
+body {
+  background-color: rgb(253, 251, 251);
+  width: 80%;
+  margin: auto;
+}
+
+#cabecalho {
+  background-color: rgb(20, 33, 61);
+  box-shadow: 0 0 10px black;
+  border-radius: 0 0 25px 25px;
+  width: 80%;
+  height: 6em;
+  margin: 0 auto;
+  position: fixed;
+  top: 0;
+}
+
+#cabecalho h1 {
+  color: white;
+  margin: 0.1em;
+  text-align: center;
+}
+
+#titulo {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3em;
+}
+
+nav {
+  text-align: center;
+}
+
+nav > a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(252, 163, 17);
+  border-radius: 20px;
+  padding: 0.3em;
+  margin: 0.2em;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+}
+
+nav > a:hover {
+  box-shadow: 0 0 10px white;
+}
+
+#seccao1 {
+  margin-top: 7em;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  margin-top: -7em;
+  margin-bottom: 5em;
+  padding-top: 8em;
+  background-color: rgb(20, 33, 61);
+  box-shadow: 0 0 10px black;
+  border-radius: 25px;
+  color: white;
+}
+
+#perfil {
+  width: 100%;
+  margin: auto;
+  padding-top: 1em;
+  text-align: center;
+}
+
+#perfil h1 {
+  font-family: 'Mrs Sheppards', cursive;
+  font-weight: 100;
+  font-size: 3em;
+}
+
+#sobreMim {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+}
+
+#sobreMim > p {
+  text-align: left;
+  font-size: 0.9em;
+  background-color: rgb(252, 163, 17);
+  border: 1em rgb(252, 163, 17) solid;
+  border-left: 0.6em;
+  border-radius: 0 20px 20px 0;
+  padding-left: 0.2em;
+  margin-left: -2.1em;
+  box-shadow: 10px 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#minha_foto {
+  width: 10em;
+  border-radius: 100%;
+  background-color: rgb(252, 163, 17);
+  padding: 1em;
+  border: 1em rgb(252, 163, 17) solid;
+  box-shadow: 0 0 20px black;
+}
+
+#seccao2 {
+  text-align: center;
+}
+
+#listaLicoes {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+}
+
+#licoes_aprendidas {
+  list-style-type: decimal;
+  order: 1;
+  width: 30%;
+  height: 80%;
+  line-height: 1.1em;
+}
+
+#licoes_a_aprender {
+  list-style-type: circle;
+  order: 2;
+  width: 30%;
+  height: 80%;
+  line-height: 1.1em;
+}
+
+article {
+  display: flex;
+  padding: 0.5em;
+}
+
+.lado-esquerdo {
+  float: left;
+  padding: 0.5em;
+}
+
+.lado-direito {
+  float: right;
+  padding: 0.5em;
+}
+
+.lado-direito > a {
+  text-decoration: none;
+  color: white;
+}
+
+.lado-direito > a:hover {
+  color: rgb(252, 163, 17);
+}
+
+h2 {
+  text-align: center;
+  margin: 2em auto 0.5em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+p,
+li {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#seccao4 {
+  margin: 1em;
+  padding-bottom: 2em;
+  text-align: center;
+}
+
+table {
+  margin: 1em auto;
+  border: 0.5em rgb(252, 163, 17) solid;
+  border-radius: 15px;
+}
+
+td {
+  padding: 0.3em;
+}
+
+#rodape {
+  background-color: rgb(20, 33, 61);
+  color: white;
+  box-shadow: 0 0 10px black;
+  border-radius: 25px 25px 0 0;
+  width: 80%;
+  height: 2em;
+  margin: 0 auto;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+
+#rodape > h3 {
+  margin: 0.4em auto;
+}

@@ -8,38 +8,37 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 1: Unix, Bash e Shell Script
 
-- [ ] 1.3 - Fundamentos do Desenvolvimento Web
-- [ ] 1.3 - Introdução - Unix & Shell
-- [ ] 1.3 - Unix & Bash - Parte 1
-- [ ] 1.4 - Unix & Bash - Parte 2
+- [x] 1.3 - Fundamentos do Desenvolvimento Web
+- [x] 1.3 - Introdução - Unix & Shell
+- [x] 1.3 - Unix & Bash - Parte 1
+- [x] 1.4 - Unix & Bash - Parte 2
 
 ##### Bloco 2: Git, GitHub e Internet
 
-- [ ] 2.1 - Git & GitHub - O que é e para que serve
-- [ ] 2.2 - Git & GitHub - Entendendo os comandos
-- [ ] 2.3 - Internet - Entendendo como ela funciona
+- [x] 2.1 - Git & GitHub - O que é e para que serve
+- [x] 2.2 - Git & GitHub - Entendendo os comandos
+- [x] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS
 
-- [ ] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [x] 3.1 - Introdução - HTML & CSS
+- [x] 3.1 - HTML & CSS - Estruturas de página
+- [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
+- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.3)_
+- [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.4)_
+- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/3.5)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.1)_
+- [x] 4.2 - _[JavaScript - Array e loop For](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.2)_
+- [x] 4.3 - _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.3)_
+- [x] 4.4 - _[JavaScript - Objetos e funções](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.4)_
+- [x] 4.5 - _[Projeto - Playground Functions](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/4.5)_
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5.1 - JavaScript - DOM e seletores
+- [x] 5.1 - _[JavaScript - DOM e seletores](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.1)_
 - [ ] 5.2 - JavaScript - Trabalhando com elementos
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
