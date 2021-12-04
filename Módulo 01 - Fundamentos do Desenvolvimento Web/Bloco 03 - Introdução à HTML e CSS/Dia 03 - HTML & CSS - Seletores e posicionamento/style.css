@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  size: 65px;
+  color: orange;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+}
+
+ul {
+  background-color: violet;
+}
+
+p,
+ul {
+  background-color: aquamarine;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#red {
+  background-color: red;
+}
+
+#brown {
+  background-color: brown;
+}

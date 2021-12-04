@@ -24,7 +24,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
+- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
 
