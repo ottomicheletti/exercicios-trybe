@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buscando Elementos</title>
+  </head>
+  <body>
+    <main id="paiDoPai">
+      <section id="pai">
+        <section id="primeiroFilho">Primeiro Filho</section>
+        <section id="elementoOndeVoceEsta">
+          <section id="primeiroFilhoDoFilho"></section>
+          <section id="segundoEUltimoFilhoDoFilho"></section>
+        </section>
+        Atenção!
+        <section id="terceiroFilho"></section>
+        <section id="quartoEUltimoFilho"></section>
+      </section>
+    </main>
+    <script>
+      // variável para acessar o elemento 'elementoOndeVoceEsta'
+      let ondeEstou = document.getElementById('elementoOndeVoceEsta');
+
+      // criar um irmão para 'elementoOndeVoceEsta'
+      console.log(
+        ondeEstou.parentElement.appendChild(document.createElement('p'))
+      );
+
+      // crie um filho para 'elementoOndeVoceEsta'
+      console.log(ondeEstou.appendChild(document.createElement('div')));
+
+      // crie um filho para 'primeiroFilhoDoFilho'
+      console.log(
+        ondeEstou.firstElementChild.appendChild(document.createElement('div'))
+      );
+
+      // a partir desse filho criado, acesse 'terceiroFilho'
+      console.log(
+        ondeEstou.parentElement.lastElementChild.previousElementSibling
+          .previousElementSibling
+      );
+    </script>
+  </body>
+</html>
