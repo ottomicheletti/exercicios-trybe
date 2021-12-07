@@ -39,7 +39,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [x] 5.1 - _[JavaScript - DOM e seletores](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.1)_
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.2 - _[JavaScript - Trabalhando com elementos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.2)_
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos

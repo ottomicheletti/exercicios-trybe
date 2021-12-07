@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buscando Elementos</title>
+  </head>
+  <body>
+    <main id="paiDoPai">
+      <section id="pai">
+        <section id="primeiroFilho">Primeiro Filho</section>
+        <section id="elementoOndeVoceEsta">
+          <section id="primeiroFilhoDoFilho"></section>
+          <section id="segundoEUltimoFilhoDoFilho"></section>
+        </section>
+        Atenção!
+        <section id="terceiroFilho"></section>
+        <section id="quartoEUltimoFilho"></section>
+      </section>
+    </main>
+    <script>
+      // variável para acessar o elemento 'elementoOndeVoceEsta'
+      let ondeEstou = document.getElementById('elementoOndeVoceEsta');
+
+      // acessando elemento 'pai' a partir de 'ondeEstou' e adicionando a cor verde.
+      ondeEstou.parentElement.style.color = 'green';
+
+      // acessando 'primeiroFilhoDoFilho' e adicionando um texto
+      ondeEstou.firstElementChild.innerHTML = '<p> Texto teste </p>';
+
+      // acessar 'primeiroFilho' a partir de 'pai'
+      let elementoPai = document.getElementById('pai');
+
+      console.log(elementoPai.firstElementChild);
+
+      // acessar o 'primeiroFilho' a partir de 'elementoOndeVoceEsta'
+      console.log(ondeEstou.previousElementSibling);
+
+      // acessar o texto 'Atenção!' a partir de 'elementoOndeVoceEsta'
+      console.log(ondeEstou.nextSibling);
+
+      // acessar 'terceiroFilho' a partir de 'elementoOndeVoceEsta'
+      console.log(ondeEstou.nextElementSibling);
+
+      // acessar 'terceiroFilho' a partir de 'pai'
+      console.log(elementoPai.lastElementChild.previousElementSibling);
+    </script>
+  </body>
+</html>
