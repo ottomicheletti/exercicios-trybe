@@ -40,7 +40,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 5.1 - _[JavaScript - DOM e seletores](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.1)_
 - [x] 5.2 - _[JavaScript - Trabalhando com elementos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.2)_
-- [ ] 5.3 - JavaScript - Eventos
+- [x] 5.3 - _[JavaScript - Eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.3)_
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
 - [ ] 5.5 - Projeto - Arte com Pixels
