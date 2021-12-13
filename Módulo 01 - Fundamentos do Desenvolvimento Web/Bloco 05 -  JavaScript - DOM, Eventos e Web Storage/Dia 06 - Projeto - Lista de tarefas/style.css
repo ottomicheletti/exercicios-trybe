@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(38, 70, 83, 1) 100%
+  );
+}
+
+main {
+  width: 60%;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 2em auto;
+  padding: 1em;
+}
+
+/* Header */
+h1 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: italic;
+}
+
+#criar-tarefa,
+#texto-tarefa,
+#apaga-tudo,
+#remover-finalizados,
+#salvar-tarefas,
+#mover-cima,
+#mover-baixo,
+#remover-selecionado {
+  padding: 0.5em;
+  margin: 0.5em auto;
+  border-radius: 5px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  outline: none;
+}
+
+#criar-tarefa,
+#apaga-tudo,
+#remover-finalizados,
+#salvar-tarefas,
+#mover-cima,
+#mover-baixo,
+#remover-selecionado {
+  cursor: pointer;
+  color: #fff;
+}
+
+#criar-tarefa {
+  background-color: #2a9d8f;
+  border: 2px #2a9d8f solid;
+}
+
+#mover-cima {
+  background-color: #2a9d8f;
+  border: 2px #2a9d8f solid;
+}
+
+#mover-baixo {
+  background-color: #2a9d8f;
+  border: 2px #2a9d8f solid;
+}
+
+#remover-selecionado {
+  background-color: #e9c46a;
+  border: 2px #e9c46a solid;
+}
+
+#remover-finalizados {
+  background-color: #f4a261;
+  border: 2px #f4a261 solid;
+}
+
+#apaga-tudo {
+  background-color: #e76f51;
+  border: 2px #e76f51 solid;
+}
+
+#salvar-tarefas {
+  background-color: #2a9d8f;
+  border: 2px #2a9d8f solid;
+}
+
+/* Section */
+#lista-tarefas {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0.5em 1em;
+  font-size: larger;
+}
+
+.item-lista {
+  margin: 0.2em auto;
+  padding: 0.2em;
+  border-radius: 5px;
+}
+
+.ativo {
+  background-color: rgb(128, 128, 128);
+}
+
+.completed {
+  text-decoration: line-through rgb(0, 0, 0) solid;
+}

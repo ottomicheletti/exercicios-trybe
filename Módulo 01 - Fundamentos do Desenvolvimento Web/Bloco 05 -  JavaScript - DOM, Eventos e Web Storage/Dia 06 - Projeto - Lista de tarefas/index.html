@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ubuntu:wght@300&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>To-do List</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Minha Lista de Tarefas</h1>
+        <p id="funcionamento">
+          Clique duas vezes em um item para marcá-lo como completo
+        </p>
+
+        <input
+          type="text"
+          id="texto-tarefa"
+          placeholder="Adicione uma nova tarefa"
+        />
+        <button id="criar-tarefa" class="criar-tarefa">Criar Tarefa</button>
+      </header>
+      <section>
+        <div id="tarefas">
+          <ol id="lista-tarefas"></ol>
+        </div>
+        <button id="mover-cima" title="Move tarefa para cima">&#8593</button>
+        <button id="mover-baixo" title="Move tarefa para baixo">&#8595</button>
+        <button id="remover-selecionado" title="Deleta tarefa selecionada">&#10008 Selecionada</button>
+        <button id="remover-finalizados" title="Deleta tarefas finalizadas">&#10008 Finalizadas</button>
+        <button id="apaga-tudo" title="Deleta todas as tarefas">&#10008 Todas</button>
+        <button id="salvar-tarefas" title="Salva todas as tarefas">&#x2713 Salvar</button>
+      </section>
+    </main>
+  </body>
+  <script src="./script.js"></script>
+</html>
