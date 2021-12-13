@@ -43,7 +43,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 5.3 - _[JavaScript - Eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.3)_
 - [x] 5.4 - _[JavaScript - Web Storage](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.4)_
 - [x] 5.5 - _[Projeto - Arte com Pixels](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.5)_
-- [ ] 5.6 - Projeto - Lista de tarefas
+- [x] 5.6 - _[Projeto - Lista de tarefas](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.6)_
 - [ ] 5.7 - (Bônus) Projeto - Meme Generator
 - [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
