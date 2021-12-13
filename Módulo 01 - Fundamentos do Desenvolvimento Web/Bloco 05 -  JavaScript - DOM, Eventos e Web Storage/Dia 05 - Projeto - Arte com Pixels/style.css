@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Titulo e subtítulo do projeto */
+header {
+  margin: 1em auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+}
+
+/* Divs das cores */
+#color-palette {
+  display: flex;
+  justify-content: center;
+  margin: 1em auto;
+}
+
+.color {
+  height: 40px;
+  width: 40px;
+  border: 1px black solid;
+}
+
+/* Botões - Requisito 9 e 10*/
+#clear-board,
+#generate-board,
+#board-size {
+  padding: 3px;
+  border: 1px black solid;
+}
+
+/* Pixel board  - Requisito 4*/
+#pixel-board {
+  width: 210px;
+  margin: 1em auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: stretch;
+  align-content: stretch;
+  border: 1px black solid;
+}
+
+.pixel {
+  /* Requisito 5 */
+  height: 40px;
+  width: 40px;
+  border: 1px black solid;
+  background-color: rgb(255, 255, 255);
+}
