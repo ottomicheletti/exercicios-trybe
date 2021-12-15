@@ -1,0 +1,151 @@
+:root {
+  --color1: #ff9f1c;
+  --color2: #ffbf69;
+  --color3: #fff;
+  --color4: #cbf3f0;
+  --color5: #2ec4b6;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--color2);
+}
+
+#container {
+  background-color: var(--color4);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+  width: fit-content;
+  margin: 2em auto;
+  border-radius: 20px;
+  padding: 0.5em;
+  text-align: center;
+}
+
+header {
+  width: fit-content;
+  margin: 0.5em auto;
+}
+
+form {
+  margin: 0.5em;
+  text-align: justify;
+  /* border: 2px red solid; */
+}
+
+input,
+label {
+  height: 1.5em;
+  margin: 0.2em 0.5em;
+  padding: 0.3em;
+  /* border: 2px red solid; */
+}
+
+h1,
+label {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: var(--color3);
+  text-shadow: 2px 2px 2px #000;
+}
+
+main {
+  height: 512px;
+  width: 512px;
+  margin: 1em auto;
+}
+
+#meme-insert {
+  cursor: pointer;
+}
+
+#meme-image-container {
+  margin: 0 auto;
+  background-color: #fff;
+  height: 500px;
+  width: 500px;
+}
+
+#meme-image {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+/* Requisito 4 -  Adicione o texto que será inserido sobre a imagem deve ter uma cor, sombra e tamanho específicos. */
+#meme-text {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  text-shadow: 5px 5px 5px #000;
+  text-transform: uppercase;
+  word-spacing: 0.2em;
+  font-size: 30px;
+  color: #fff;
+  padding: 0.5em;
+  height: fit-content;
+  position: relative;
+  top: -30%;
+  overflow-wrap: break-word;
+  z-index: 1;
+}
+
+#buttons {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+}
+
+#fire,
+#water,
+#earth {
+  width: 8em;
+  height: 3em;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+#fire {
+  background-color: rgb(255, 0, 0);
+}
+
+#water {
+  background-color: rgb(0, 0, 255);
+}
+
+#earth {
+  background-color: rgb(0, 128, 0);
+}
+
+button > p {
+  font-size: x-large;
+}
+
+h2 {
+  margin: 0.5em;
+  text-transform: uppercase;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: var(--color3);
+  text-shadow: 2px 2px 2px #000;
+}
+
+#memes-prontos {
+  margin: 1em;
+  display: flex;
+  justify-content: space-around;
+}
+
+#meme-1,
+#meme-2,
+#meme-3,
+#meme-4 {
+  border: none;
+  cursor: pointer;
+}
+
+button > img {
+  width: 100px;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meme Generator</title>
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <h1>MEME GENERATOR</h1>
+        <form action="">
+          <label for="text-input">Texto</label>
+          <!-- Requisito 5 - Limite o tamanho do texto que o usuário pode inserir -->
+          <input
+            type="text"
+            name="text-input"
+            id="text-input"
+            maxlength="60"
+            autofocus
+          />
+          <br />
+          <label for="image">Imagem</label>
+          <input
+            type="file"
+            accept="image/gif, image/jpeg, image/png"
+            name="image"
+            id="meme-insert"
+            value=""
+          />
+        </form>
+      </header>
+      <main>
+        <div id="meme-image-container">
+          <img id="meme-image" draggable="false" />
+          <p id="meme-text"></p>
+        </div>
+      </main>
+      <div id="buttons">
+        <button id="fire"><p>&#x1F525;</p></button>
+        <button id="water"><p>&#x1F30A;</p></button>
+        <button id="earth"><p>&#x1F331;</p></button>
+      </div>
+      <h2>Memes Prontos</h2>
+      <div id="memes-prontos">
+        <button id="meme-1"><img src="./imgs/meme1.png" alt="Meme 1" /></button
+        ><button id="meme-2"><img src="./imgs/meme2.png" alt="Meme 2" /></button
+        ><button id="meme-3"><img src="./imgs/meme3.png" alt="Meme 3" /></button
+        ><button id="meme-4">
+          <img src="./imgs/meme4.png" alt="Meme 4" />
+        </button>
+      </div>
+    </div>
+  </body>
+
+  <script src="script.js"></script>
+</html>
