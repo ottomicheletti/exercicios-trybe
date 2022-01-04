@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+fieldset {
+  width: max-content;
+  margin: 1em auto;
+  padding: 0.5em;
+  text-align: justify;
+}
+
+label,
+input,
+select,
+button {
+  margin: 0.2em auto;
+  text-align: center;
+}
+
+textarea {
+  margin: 0.2em auto;
+}
+
+#estados {
+  width: fit-content;
+}
+
+#gerar,
+#apagar {
+  padding: 0.2em;
+}
+
+#curriculo {
+  margin: 2em auto;
+  padding: 0.5em;
+  border: 1px black solid;
+  width: 500px;
+}
+
+#curriculo > h1,
+h3,
+h4 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#curriculo > h4 {
+  width: 300px;
+}
+
+#curriculo > p {
+  text-align: justify;
+}
