@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Exercicio 6.1</title>
+  </head>
+  <body>
+    <main>
+      <fieldset>
+        <label for="nome">Nome Completo:</label>
+        <input type="text" name="nome" id="nome" maxlength="40" required />
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" maxlength="50" required />
+        <br />
+        <label for="cpf">CPF:</label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required />
+        <br />
+        <label for="endereco">Endereço:</label>
+        <input
+          type="text"
+          name="endereco"
+          id="endereco"
+          maxlength="200"
+          required
+        />
+        <br />
+        <label for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidade" maxlength="28" required />
+        <br />
+        <label for="estado">Estado</label>
+        <select name="estado" id="estados"></select>
+        <br />
+        <label for="resumo">Resumo:</label>
+        <br />
+        <textarea
+          name="resumo"
+          cols="30"
+          rows="10"
+          maxlength="1000"
+          id="resumo"
+          required
+        ></textarea>
+        <br />
+        <label for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" maxlength="40" required />
+        <br />
+        <label for="descricao">Descrição do cargo:</label>
+        <br />
+        <textarea
+          name="descricao"
+          id="descricao"
+          cols="30"
+          rows="10"
+          maxlength="500"
+          required
+        ></textarea>
+        <br />
+        <label for="inicio">Data de início:</label>
+        <input type="text" name="inicio" id="inicio" maxlength="10" required />
+        <br />
+        <button type="submit" id="gerar">Gerar Currículo</button>
+        <button id="apagar">Apagar Dados</button>
+      </fieldset>
+      <div id="curriculo"></div>
+    </main>
+  </body>
+  <script src="script.js"></script>
+</html>
