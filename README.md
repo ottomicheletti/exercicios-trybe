@@ -46,11 +46,11 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 5.6 - _[Projeto - Lista de tarefas](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.6)_
 - [x] 5.7 - _[(Bônus) Projeto - Meme Generator](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7)_
 - [x] 5.7 - _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7.2)_
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [x] 5.7 - _[(Bônus) Projeto - Carta Misteriosa](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7.3)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6.1 - HTML & CSS - Forms
+- [x] 6.1 - _[HTML & CSS - Forms](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.1)_
 - [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
 - [ ] 6.3 - CSS Flexbox - Parte 1
