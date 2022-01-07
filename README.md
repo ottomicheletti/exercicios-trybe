@@ -52,8 +52,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 6.1 - _[HTML & CSS - Forms](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.1)_
 - [x] 6.2 - _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.2)_
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
+- [x] 6.3 - _[CSS Flexbox - Parte 1](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.3)_
 - [ ] 6.4 - CSS Flexbox - Parte 2
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - Trybewarts
