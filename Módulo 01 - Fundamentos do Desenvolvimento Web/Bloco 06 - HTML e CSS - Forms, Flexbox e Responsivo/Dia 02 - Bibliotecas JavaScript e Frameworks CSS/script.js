@@ -58,9 +58,14 @@ function generateAmerica() {
     allStates.append(option);
     // console.log(`Estado: ${value} e respectiva sigla: ${key.toUpperCase()}`);
   }
-  $('#estados').val('');
+  // $('#estados').val('');
 }
 generateAmerica();
+
+// DataPickerX
+document.getElementById('data').DatePickerX.init({
+  format: 'dd/mm/yyyy',
+});
 
 function generateResume() {
   const name = $('#nome').val();
