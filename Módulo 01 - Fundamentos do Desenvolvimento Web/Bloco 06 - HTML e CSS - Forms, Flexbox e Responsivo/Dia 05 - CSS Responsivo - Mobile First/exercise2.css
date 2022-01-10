@@ -1,0 +1,197 @@
+html {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 575px) {
+  /* HEADER */
+  header {
+    padding: 0.5em;
+  }
+
+  header p {
+    margin-bottom: 0.5em;
+    text-align: center;
+  }
+
+  nav {
+    margin: 0.5em auto;
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  nav ul li {
+    margin: auto 0.5em;
+    list-style: none;
+    justify-content: space-between;
+  }
+  /* HEADER */
+
+  /* ASIDES */
+  aside {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0.5em;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  ul {
+    margin: 0 auto;
+    list-style: none;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  /* HEADER */
+  header {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  header p {
+    margin: 0.5em;
+  }
+
+  nav {
+    margin: 0.5em;
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  nav ul li {
+    margin: auto 0.5em;
+    list-style: none;
+    justify-content: space-between;
+  }
+  /* HEADER */
+
+  /* ASIDES */
+  #asides {
+    display: flex;
+  }
+
+  aside {
+    width: fit-content;
+    margin: 0.5em auto;
+    padding: 0.5em;
+  }
+
+  h2,
+  ul {
+    margin: 0 auto;
+  }
+
+  ul {
+    list-style: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /* HEADER */
+  header {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  header p {
+    margin: 0.5em;
+  }
+
+  nav {
+    margin: 0.5em;
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  nav ul li {
+    margin: auto 0.5em;
+    list-style: none;
+    justify-content: space-between;
+  }
+  /* HEADER */
+
+  /* ASIDES */
+
+  main {
+    display: flex;
+    flex-flow: row-reverse;
+  }
+
+  aside {
+    width: 270px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+  }
+
+  h2,
+  ul {
+    margin: 0 auto;
+  }
+
+  ul {
+    list-style: none;
+  }
+}
+
+header {
+  background-color: cornflowerblue;
+  color: white;
+  font-size: larger;
+}
+
+header p {
+  padding: 0.4em;
+  text-shadow: 2px 2px 4px #000;
+}
+
+nav ul li {
+  padding: 0.2em;
+  cursor: pointer;
+  border: 2px #fff solid;
+  border-radius: 3px;
+}
+
+nav ul li:hover {
+  color: cornflowerblue;
+  background-color: white;
+  padding: 0.2em;
+  cursor: pointer;
+  border: 2px #fff solid;
+  border-radius: 3px;
+}
+
+article {
+  padding: 1em;
+  font-size: larger;
+}
+
+footer {
+  padding: 1em;
+  text-align: center;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: larger;
+  text-shadow: 2px 2px 4px #000;
+}
+
+#asides {
+  background-color: coral;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000;
+}
