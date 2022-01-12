@@ -55,7 +55,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 6.3 - _[CSS Flexbox - Parte 1](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.3)_
 - [x] 6.4 - _[CSS Flexbox - Parte 2](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.4)_
 - [x] 6.5 - _[CSS Responsivo - Mobile First](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.5)_
-- [ ] 6.6 - Projeto - Trybewarts
+- [x] 6.6 - _[Projeto - Trybewarts](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/6.6)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
