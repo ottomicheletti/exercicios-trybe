@@ -60,7 +60,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - [x] 7.1 - _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/7.1)_
-- [ ] 7.2 - JavaScript ES6 - Objects
+- [x] 7.2 - -[JavaScript ES6 - Objects](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/7.2)_
 - [ ] 7.3 - Primeiros passos em Jest
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
