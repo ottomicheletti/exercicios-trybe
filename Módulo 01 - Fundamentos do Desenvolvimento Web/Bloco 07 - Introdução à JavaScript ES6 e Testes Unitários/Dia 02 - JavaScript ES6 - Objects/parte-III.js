@@ -70,3 +70,16 @@ const verificaValor = (obj, key, value) => {
   obj[key] === value ? console.log(`O valor '${value}' pesquisado na chave '${key}' do objeto em questão é: verdadeiro`) : console.log(`O valor '${value}' pesquisado na chave '${key}' do objeto em questão é: falso`);
 }
 verificaValor(lesson3, 'turno', 'noite');
+
+// Bônus 1.
+const verificaMateria = (obj, sbj) => {
+  let resultado = 0;
+  const array = Object.keys(obj);
+  for(const index in array){
+    if(obj[array[index]].materia === sbj){
+      resultado += parseInt(obj[array[index]].numeroEstudantes);
+    }
+  }
+  return console.log(`O total de alunos que assistiram às aulas de ${sbj} é: ${resultado}`);
+}
+verificaMateria(allLessons, 'História');
