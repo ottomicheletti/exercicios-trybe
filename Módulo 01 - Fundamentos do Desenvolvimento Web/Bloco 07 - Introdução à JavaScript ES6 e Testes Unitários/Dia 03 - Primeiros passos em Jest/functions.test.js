@@ -1,5 +1,6 @@
 const sum = require('./sum');
 const myRemove = require('./myRemove');
+const myFizzbuzz = require('./myFizzbuzz');
 const { test, expect } = require('@jest/globals');
 
 describe('Exercício 1', () => {
@@ -30,5 +31,23 @@ describe('Exercício 2', () => {
   });
   test('2.3 - Verifica se a chamada "myRemove([1, 2, 3, 4], 5)" retorna o array esperado', () => {
     expect(myRemove([1, 2, 3, 4], 5)).toEqual([1, 2, 3, 4]);
+  });
+});
+
+describe('Exercício 3', () => {
+  test('3.1 - Verifica se o número "15" retorna "fizzbuzz"', () => {
+    expect(myFizzbuzz(15)).toEqual('fizzbuzz');
+  });
+  test('3.2 - Verifica se o número "6" retorna "fizz"', () => {
+    expect(myFizzbuzz(6)).toEqual('fizz');
+  });
+  test('3.3 - Verifica se o número "10" retorna "buzz"', () => {
+    expect(myFizzbuzz(10)).toEqual('buzz');
+  });
+  test('3.4 - Verifica se o número "13" retorna "false"', () => {
+    expect(myFizzbuzz(13)).toEqual(false);
+  });
+  test('3.5 - Verifica se o argumento passado for diferente de um número, retorna "false"', () => {
+    expect(myFizzbuzz('a')).toEqual(false);
   });
 });
