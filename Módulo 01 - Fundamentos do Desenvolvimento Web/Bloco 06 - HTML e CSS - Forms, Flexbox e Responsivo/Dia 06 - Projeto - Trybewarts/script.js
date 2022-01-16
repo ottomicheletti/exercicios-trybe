@@ -59,15 +59,21 @@ const obervacoes = document.querySelector('textarea');
 
 // functions family(), checked() e satisfaction() inspiradas em https://stackoverflow.com/a/45875948
 function family() {
-  return [...familia].filter((radio) => radio.checked).map((radio) => radio.value);
+  return [...familia]
+    .filter((radio) => radio.checked)
+    .map((radio) => radio.value);
 }
 
 function checked() {
-  return [...materias].filter((checkbox) => checkbox.checked).map((checkbox) => checkbox.value);
+  return [...materias]
+    .filter((checkbox) => checkbox.checked)
+    .map((checkbox) => checkbox.value);
 }
 
 function satisfaction() {
-  return [...notas].filter((radio) => radio.checked).map((radio) => radio.value);
+  return [...notas]
+    .filter((radio) => radio.checked)
+    .map((radio) => radio.value);
 }
 
 btnSubmit.addEventListener('click', () => {
