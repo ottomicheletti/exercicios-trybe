@@ -115,6 +115,66 @@ const hydrate = (string) => {
   return `${coposDeAgua} ${pluralOuNao}`;
 };
 
+// Bônus
+const professionalBoard = [
+  {
+    id: '8579-6',
+    firstName: 'Ana',
+    lastName: 'Gates',
+    specialities: ['UX', 'Design'],
+  },
+  {
+    id: '5569-4',
+    firstName: 'George',
+    lastName: 'Jobs',
+    specialities: ['Frontend', 'Redux', 'React', 'CSS'],
+  },
+  {
+    id: '4456-4',
+    firstName: 'Leila',
+    lastName: 'Zuckerberg',
+    specialities: ['Context API', 'RTL', 'Bootstrap'],
+  },
+  {
+    id: '1256-4',
+    firstName: 'Linda',
+    lastName: 'Bezos',
+    specialities: ['Hooks', 'Context API', 'Tailwind CSS'],
+  },
+  {
+    id: '9852-2-2',
+    firstName: 'Jeff',
+    lastName: 'Cook',
+    specialities: ['Ruby', 'SQL'],
+  },
+  {
+    id: '4678-2',
+    firstName: 'Paul',
+    lastName: 'Dodds',
+    specialities: ['Backend'],
+  },
+];
+
+const searchEmployee = (id, key) => {
+  let employee = '';
+
+  for (const pessoa in professionalBoard) {
+    const currentEmployee = professionalBoard[pessoa];
+    if (currentEmployee.id === id) {
+      employee = currentEmployee;
+    }
+  }
+  if (!employee) {
+    throw 'ID não identificada';
+  }
+  if (!employee[key]) {
+    throw 'Informação indisponível';
+  }
+  return `ID: ${employee.id}
+Nome completo: ${employee.firstName} ${employee.lastName}
+Especialidades: ${employee.specialities.join(', ')}`;
+};
+
 module.exports = {
   sum,
   removeitem,
@@ -123,4 +183,5 @@ module.exports = {
   decode,
   techlist,
   hydrate,
+  searchEmployee,
 };

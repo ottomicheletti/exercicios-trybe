@@ -93,17 +93,35 @@ describe('Exercício 5', () => {
 });
 
 describe('Exercício 6', () => {
-  test('Testa se a função "hydrate" é definida', () => {
+  test('6.1 - Testa se a função "hydrate" é definida', () => {
     expect(functions.hydrate).toBeDefined();
   });
-  test('Testa se "hydrate" é uma função', () => {
+  test('6.2 - Testa se "hydrate" é uma função', () => {
     expect(typeof functions.hydrate).toBe('function');
   });
-  test('Testa se ao receber uma string, retorna a sugestão de quantos copos de água deve-se beber', () => {
+  test('6.3 - Testa se ao receber uma string, retorna a sugestão de quantos copos de água deve-se beber', () => {
     expect(functions.hydrate('1 cerveja')).toBe('1 copo de água');
     expect(functions.hydrate('1 cachaça, 5 cervejas e 1 copo de vinho')).toBe('7 copos de água');
     expect(functions.hydrate('2 shots de tequila, 2 cervejas e 1 corote')).toBe('5 copos de água');
     expect(functions.hydrate('1 copo de catuaba, 1 cervejas e 1 copo de vinho')).toBe('3 copos de água');
     expect(functions.hydrate('4 caipirinhas e 2 cervejas')).toBe('6 copos de água');
+  });
+});
+
+describe('Exercício Bônus', () => {
+  test('B.1 - Testa se a "id" informada retorna o erro "ID não identificada" quando inexistente', () => {
+    expect(() => {
+      functions.searchEmployee('12345', '');
+    }).toThrow('ID não identificada');
+  });
+  test('B.2 - Testa se a "key" informada quando não existe nas informações do funcionário, retorna o erro "Informação indisponível', () => {
+    expect(() => {
+      functions.searchEmployee('1256-4', 'xablau');
+    }).toThrow('Informação indisponível');
+  });
+  test('B.3 - Testa se passada a id = ¨1256-4" e a key = "lastName", o resultado seja "ID: 1256-4 Nome Completo: Linda Bezos Especialidades: Hooks, Context API, Tailwind CSS"', () => {
+    expect(functions.searchEmployee('1256-4', 'lastName')).toEqual(`ID: 1256-4
+Nome completo: Linda Bezos
+Especialidades: Hooks, Context API, Tailwind CSS`);
   });
 });
