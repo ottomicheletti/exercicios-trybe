@@ -76,7 +76,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 9: JavaScript Assíncrono e Promises
 
 - [x] 9.1 - _[JavaScript Assíncrono e Callbacks](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.1)_
-- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [x] 9.2 - _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.2)_
 - [ ] 9.3 - Jest - Testes Assíncronos
 - [ ] 9.4 - Projeto - Carrinho de Compras
 
