@@ -1,0 +1,14 @@
+{
+  "name": "js-assync-and-callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Otto Micheletti",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
