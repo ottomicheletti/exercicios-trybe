@@ -78,7 +78,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 9.1 - _[JavaScript Assíncrono e Callbacks](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.1)_
 - [x] 9.2 - _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.2)_
 - [x] 9.3 - _[Jest - Testes Assíncronos](https://github.com/ottomicheletti/exercise-magic-card)_
-- [x] 9.4 - -[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/9.4)_
+- [x] 9.4 - _[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/9.4)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
