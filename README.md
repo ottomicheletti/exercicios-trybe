@@ -4,7 +4,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 > "O programa conta com mais de 1.500 horas de aulas síncronas e assíncronas, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web ✅
 
 ##### Bloco 1: Unix, Bash e Shell Script
 
@@ -78,7 +78,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 9.1 - _[JavaScript Assíncrono e Callbacks](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.1)_
 - [x] 9.2 - _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.2)_
 - [x] 9.3 - _[Jest - Testes Assíncronos](https://github.com/ottomicheletti/exercise-magic-card)_
-- [ ] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.4 - -[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/9.4)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
