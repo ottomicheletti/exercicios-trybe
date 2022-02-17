@@ -84,9 +84,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 10: Introdução à React
 
-- [ ] 10.1 - Introdução - Front-end
-- [ ] 10.1 - Introdução - React
-- [ ] 10.1 - 'Hello, world!' no React!
+- [x] 10.1 - _[Introdução - React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.1)_
 - [ ] 11.2 - Componentes React
 - [ ] 11.3 - Projeto - Sistema Solar
 
