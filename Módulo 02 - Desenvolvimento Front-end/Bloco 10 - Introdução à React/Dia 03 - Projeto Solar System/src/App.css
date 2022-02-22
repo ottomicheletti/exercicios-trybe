@@ -1,0 +1,55 @@
+body {
+  background-image: url('./images/background.png');
+  color: white;
+}
+
+header {
+  border: 2px black solid;
+  text-align: center;
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 1px white solid;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 2px 2px 1px black;
+}
+
+ul {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.planet-card {
+  margin: 5px;
+  text-shadow: 2px 2px 1px black;
+}
+
+.planet-image {
+  width: 200px;
+}
+
+.mission-card {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 1px white solid;
+  border-radius: 10px;
+  height: 180px;
+  margin: 10px;
+  text-shadow: 2px 2px 1px black;
+  width: 210px;
+}
+
+.mission-title {
+  font-weight: 1000;
+}
+
+.mission-info {
+  border-top: 1px white solid;
+}

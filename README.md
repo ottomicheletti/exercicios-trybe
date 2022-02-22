@@ -86,7 +86,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 10.1 - _[Introdução - React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.1)_
 - [x] 10.2 - _[Componentes React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.2)_
-- [ ] 10.3 - Projeto - Sistema Solar
+- [x] 10.3 - _[Projeto - Sistema Solar](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/9.4)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
