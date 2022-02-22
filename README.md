@@ -85,12 +85,12 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 10: Introdução à React
 
 - [x] 10.1 - _[Introdução - React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.1)_
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Sistema Solar
+- [x] 10.2 - _[Componentes React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.2)_
+- [x] 10.3 - _[Projeto - Sistema Solar](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/10.3)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11.1 - Componentes com estado e eventos
+- [x] 11.1 - _[Componentes com estado e eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/11.1)_
 - [ ] 11.2 - Formulários no React
 - [ ] 11.3 - Projeto - Tryunfo
 
@@ -140,7 +140,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 19: Docker: Utilizando Containers
 
-- [ ] 19.1 - Introdução - Back-end
 - [ ] 19.1 - Utilizando Containers - Docker
 - [ ] 19.2 - Manipulação e Criação de Imagens no Docker
 - [ ] 19.3 - Orquestrando Containers com Docker Compose
@@ -148,7 +147,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 20: Introdução à SQL
 
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
 - [ ] 20.1 - Banco de dados SQL
 - [ ] 20.2 - Encontrando dados em um banco de dados
 - [ ] 20.3 - Filtrando dados de forma específica
@@ -164,7 +162,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com NodeJS
 
-- [ ] 22.1 - Intro - NodeJS
 - [ ] 22.1 - NodeJS - Um motor JavaScript
 - [ ] 22.2 - NodeJS - Fluxo Assíncrono
 - [ ] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com NodeJS
@@ -174,7 +171,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 23: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 23.1 - Introdução - Arquitetura de Software
 - [ ] 23.1 - Arquitetura de Software - Camada de Model
 - [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
 - [ ] 23.3 - Arquitetura Web - Rest e Restful
@@ -183,7 +179,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 24: NodeJs: ORM e Autenticação
 
-- [ ] 24.1 - Introdução - NodeJS: ORM e Autenticação
 - [ ] 24.1 - ORM - Interface da aplicação com o banco de dados
 - [ ] 24.2 - ORM - Associations
 - [ ] 24.3 - JWT - (JSON Web Token)
@@ -192,7 +187,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 25: Deployment
 
-- [ ] 25.1 - Introdução - Deploy
 - [ ] 25.1 - Infraestrutura - Deploy com Heroku
 - [ ] 25.2 - Deploy Docker & Heroku
 - [ ] 25.3 - Projeto - Stranger Things
@@ -219,7 +213,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29.1 - Introdução - NoSQL
 - [ ] 29.1 - MongoDB - Introdução
 - [ ] 29.2 - Filter Operators
 - [ ] 29.3 - Projeto - Data Flights
@@ -251,7 +244,6 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 33: Introdução à Python
 
-- [ ] 33.1 - Introdução - Ciência da Computação
 - [ ] 33.1 - Aprendendo Python
 - [ ] 33.2 - Entrada e Saída de dados
 - [ ] 33.3 - Testes
