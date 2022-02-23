@@ -23,10 +23,10 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
-- [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
-- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.3)_
-- [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.4)_
-- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/3.5)_
+- [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2002%20-%20HTML%20%26%20CSS%20-%20Primeiros%20passos%20em%20CSS)_
+- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2003%20-%20HTML%20%26%20CSS%20-%20Seletores%20e%20posicionamento)_
+- [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2004%20-%20HTML%20Sem%C3%A2ntico)_
+- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2005%20-%20Projeto%20-%20Lessons%20Learned)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
