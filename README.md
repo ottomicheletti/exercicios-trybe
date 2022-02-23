@@ -91,7 +91,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [x] 11.1 - _[Componentes com estado e eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/11.1)_
-- [ ] 11.2 - Formulários no React
+- [x] 11.2 - _[Formulários no React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/11.1)_
 - [ ] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
