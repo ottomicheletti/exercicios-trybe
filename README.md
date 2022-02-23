@@ -4,7 +4,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 > "O programa conta com mais de 1.500 horas de aulas síncronas e assíncronas, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web ✅
+## Fundamentos do Desenvolvimento Web 🚀
 
 ##### Bloco 1: Unix, Bash e Shell Script
 
@@ -23,75 +23,75 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
-- [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.2)_
-- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.3)_
-- [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/3.4)_
-- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/3.5)_
+- [x] 3.2 - _[HTML & CSS - Primeiros passos em CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2002%20-%20HTML%20%26%20CSS%20-%20Primeiros%20passos%20em%20CSS)_
+- [x] 3.3 - _[HTML & CSS - Seletores e posicionamento](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2003%20-%20HTML%20%26%20CSS%20-%20Seletores%20e%20posicionamento)_
+- [x] 3.4 - _[HTML Semântico](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2004%20-%20HTML%20Sem%C3%A2ntico)_
+- [x] 3.5 - _[Projeto - Lessons Learned](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20e%20CSS/Dia%2005%20-%20Projeto%20-%20Lessons%20Learned)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.1)_
-- [x] 4.2 - _[JavaScript - Array e loop For](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.2)_
-- [x] 4.3 - _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.3)_
-- [x] 4.4 - _[JavaScript - Objetos e funções](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/4.4)_
-- [x] 4.5 - _[Projeto - Playground Functions](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/4.5)_
+- [x] 4.1 - _[JavaScript - Primeiros passos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2004%20-%20Introducao%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Dia%2001%20-%20JavaScript%20-%20Primeiros%20passos)_
+- [x] 4.2 - _[JavaScript - Array e loop For](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2004%20-%20Introducao%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Dia%2002%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
+- [x] 4.3 - _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2004%20-%20Introducao%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Dia%2003%20-%20JavaScript%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos)_
+- [x] 4.4 - _[JavaScript - Objetos e funções](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2004%20-%20Introducao%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Dia%2004%20-%20JavaScript%20-%20Objetos%20e%20fun%C3%A7%C3%B5es)_
+- [x] 4.5 - _[Projeto - Playground Functions](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2004%20-%20Introducao%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Dia%2005%20-%20Projeto%20-%20Playground%20Functions)_
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [x] 5.1 - _[JavaScript - DOM e seletores](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.1)_
-- [x] 5.2 - _[JavaScript - Trabalhando com elementos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.2)_
-- [x] 5.3 - _[JavaScript - Eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.3)_
-- [x] 5.4 - _[JavaScript - Web Storage](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/5.4)_
-- [x] 5.5 - _[Projeto - Arte com Pixels](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.5)_
-- [x] 5.6 - _[Projeto - Lista de tarefas](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.6)_
-- [x] 5.7 - _[(Bônus) Projeto - Meme Generator](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7)_
-- [x] 5.7 - _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7.2)_
-- [x] 5.7 - _[(Bônus) Projeto - Carta Misteriosa](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/5.7.3)_
+- [x] 5.1 - _[JavaScript - DOM e seletores](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2001%20-%20JavaScript%20-%20DOM%20e%20seletores)_
+- [x] 5.2 - _[JavaScript - Trabalhando com elementos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2002%20-%20JavaScript%20-%20Trabalhando%20com%20elementos)_
+- [x] 5.3 - _[JavaScript - Eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2003%20-%20JavaScript%20-%20Eventos)_
+- [x] 5.4 - _[JavaScript - Web Storage](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2004%20-%20JavaScript%20-%20Web%20Storage)_
+- [x] 5.5 - _[Projeto - Arte com Pixels](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2005%20-%20Projeto%20-%20Arte%20com%20Pixels)_
+- [x] 5.6 - _[Projeto - Lista de tarefas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2006%20-%20Projeto%20-%20Lista%20de%20tarefas)_
+- [x] 5.7 - _[(Bônus) Projeto - Meme Generator](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2007%20-%20Projeto%20B%C3%B4nus%20-%20Meme%20Generator)_
+- [x] 5.7 - _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2007%20-%20Projeto%20B%C3%B4nus%20-%20Adivinhe%20a%20Cor)_
+- [x] 5.7 - _[(Bônus) Projeto - Carta Misteriosa](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2005%20-%20%20JavaScript%20-%20DOM%2C%20Eventos%20e%20Web%20Storage/Dia%2007%20-%20Projeto%20B%C3%B4nus%20-%20Carta%20Misteriosa)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [x] 6.1 - _[HTML & CSS - Forms](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.1)_
-- [x] 6.2 - _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.2)_
-- [x] 6.3 - _[CSS Flexbox - Parte 1](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.3)_
-- [x] 6.4 - _[CSS Flexbox - Parte 2](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.4)_
-- [x] 6.5 - _[CSS Responsivo - Mobile First](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/6.5)_
-- [x] 6.6 - _[Projeto - Trybewarts](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/6.6)_
+- [x] 6.1 - _[HTML & CSS - Forms](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2001%20-%20HTML%20%26%20CSS%20-%20Forms)_
+- [x] 6.2 - _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2002%20-%20Bibliotecas%20JavaScript%20e%20Frameworks%20CSS)_
+- [x] 6.3 - _[CSS Flexbox - Parte 1](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2003%20-%20CSS%20Flexbox%20-%20Parte%201)_
+- [x] 6.4 - _[CSS Flexbox - Parte 2](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2004%20-%20CSS%20Flexbox%20-%20Parte%202)_
+- [x] 6.5 - _[CSS Responsivo - Mobile First](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2005%20-%20CSS%20Responsivo%20-%20Mobile%20First)_
+- [x] 6.6 - _[Projeto - Trybewarts](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms%2C%20Flexbox%20e%20Responsivo/Dia%2006%20-%20Projeto%20-%20Trybewarts)_
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [x] 7.1 - _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/7.1)_
-- [x] 7.2 - _[JavaScript ES6 - Objects](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/7.2)_
-- [x] 7.3 - _[Primeiros passos em Jest](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/7.3)_
-- [x] 7.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/7.4)_
+- [x] 7.1 - _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2007%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/Dia%2001%20-%20JavaScript%20ES6%20-%20let%2C%20const%2C%20arrow%20functions%20e%20template%20literals)_
+- [x] 7.2 - _[JavaScript ES6 - Objects](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2007%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/Dia%2002%20-%20JavaScript%20ES6%20-%20Objects)_
+- [x] 7.3 - _[Primeiros passos em Jest](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2007%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/Dia%2003%20-%20Primeiros%20passos%20em%20Jest)_
+- [x] 7.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2007%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/Dia%2004%20-%20Projeto%20-%20JavaScript%20Testes%20Unit%C3%A1rios)_
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [x] 8.1 - _[JavaScript ES6 - Introdução a Higher Order Functions](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/8.1)_
-- [x] 8.2 - _[JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/8.2)_
-- [x] 8.3 - _[JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/8.3)_
-- [x] 8.4 - _[JavaScript ES6 - Higher Order Functions - reduce](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/8.4)_
-- [x] 8.5 - _[JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/8.5)_
-- [x] 8.6 - _[Projeto - Zoo functions](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/8.6)_
+- [x] 8.1 - _[JavaScript ES6 - Introdução a Higher Order Functions](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web/Bloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/Dia%2001%20-%20JavaScript%20ES6%20-%20Introdu%C3%A7%C3%A3o%20a%20Higher%20Order%20Functions)_
+- [x] 8.2 - _[JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6%2FDia%2002%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20forEach%2C%20find%2C%20some%2C%20every%2C%20sort)_
+- [x] 8.3 - _[JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6%2FDia%2003%20-%20JavaScript%20ES6%20-%20High%20Order%20Functions%20-%20map%20e%20filter)_
+- [x] 8.4 - _[JavaScript ES6 - Higher Order Functions - reduce](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6%2FDia%2004%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20reduce)_
+- [x] 8.5 - _[JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6%2FDia%2005%20-%20JavaScript%20ES6%20-%20spread%20operator%2C%20par%C3%A2metro%20rest%2C%20destructuring%20e%20mais)_
+- [x] 8.6 - _[Projeto - Zoo functions](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2008%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6%2FDia%2006%20-%20Projeto%20-%20Zoo%20functions)_
 
 ##### Bloco 9: JavaScript Assíncrono e Promises
 
-- [x] 9.1 - _[JavaScript Assíncrono e Callbacks](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.1)_
-- [x] 9.2 - _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/9.2)_
+- [x] 9.1 - _[JavaScript Assíncrono e Callbacks](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2009%20-%20JavaScript%20e%20Testes%20Ass%C3%ADncronos%2FDia%2001%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)_
+- [x] 9.2 - _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2009%20-%20JavaScript%20e%20Testes%20Ass%C3%ADncronos%2FDia%2002%20-%20JavaScript%20Ass%C3%ADncrono%20-%20Fetch%20API%20e%20async)_
 - [x] 9.3 - _[Jest - Testes Assíncronos](https://github.com/ottomicheletti/exercise-magic-card)_
-- [x] 9.4 - _[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/9.4)_
+- [x] 9.4 - _[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2009%20-%20JavaScript%20e%20Testes%20Ass%C3%ADncronos%2FDia%2004%20-%20Projeto%20-%20Carrinho%20de%20Compras)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 10: Introdução à React
 
-- [x] 10.1 - _[Introdução - React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.1)_
-- [x] 10.2 - _[Componentes React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/10.2)_
-- [x] 10.3 - _[Projeto - Sistema Solar](https://github.com/ottomicheletti/exercicios-trybe/tree/projetos/10.3)_
+- [x] 10.1 - _[Introdução - React](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2010%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20React%2FDia%2001%20-%20Hello%20World%20no%20React)_
+- [x] 10.2 - _[Componentes React](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2010%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20React%2FDia%2002%20-%20Componentes%20React)_
+- [x] 10.3 - _[Projeto - Sistema Solar](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2010%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20React%2FDia%2003%20-%20Projeto%20Solar%20System)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [x] 11.1 - _[Componentes com estado e eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/11.1)_
-- [x] 11.2 - _[Formulários no React](https://github.com/ottomicheletti/exercicios-trybe/tree/exercicios/11.1)_
+- [x] 11.1 - _[Componentes com estado e eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React%2FDia%2001%20-%20Componentes%20com%20estado%20e%20eventos)_
+- [x] 11.2 - _[Formulários no React](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React%2FDia%2002%20-%20Formul%C3%A1rios%20no%20React)_
 - [ ] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
