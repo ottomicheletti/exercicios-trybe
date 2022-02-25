@@ -92,7 +92,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 11.1 - _[Componentes com estado e eventos](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React%2FDia%2001%20-%20Componentes%20com%20estado%20e%20eventos)_
 - [x] 11.2 - _[Formulários no React](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React%2FDia%2002%20-%20Formul%C3%A1rios%20no%20React)_
-- [ ] 11.3 - Projeto - Tryunfo
+- [x] 11.3 - _[Projeto - Tryunfo](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React%2FDia%2003%20-%20Projeto%20-%20Tryunfo)_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 

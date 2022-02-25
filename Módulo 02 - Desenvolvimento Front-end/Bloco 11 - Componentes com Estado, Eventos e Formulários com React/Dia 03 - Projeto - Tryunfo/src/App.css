@@ -1,0 +1,251 @@
+/* BODY */
+.body {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0.5em;
+  text-align: center;
+}
+
+/* COMEÇO DAS REGRAS DO COMPONENTE Form.jsx */
+.div-forms-columns {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  width: 100%;
+}
+
+.div-forms-columns label {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5em 0;
+}
+
+.div-forms-columns label * {
+  margin-top: 0.5em;
+}
+
+.div-forms-rows {
+  display: flex;
+  flex-direction: column;
+}
+
+.div-forms-rows label {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5em 0;
+}
+
+.div-forms-rows label * {
+  width: 200px;
+}
+
+.div-forms-check input {
+  margin-left: 0;
+  margin-right: 0.5em;
+}
+
+button {
+  margin: 0.5em auto;
+}
+
+.form-container {
+  background-color: #fafafa;
+  padding: 0.5em;
+  width: 46vw;
+}
+
+.form-container h2 {
+  color: #444955;
+}
+
+/* FIM DAS REGRAS DO COMPONENTE Form.jsx */
+
+/* COMEÇO DAS REGRAS DO COMPONENTE Card.jsx */
+.card-container {
+  align-items: center;
+  background-color: #023031;
+  display: flex;
+  height: 620px;
+  justify-content: center;
+  padding: 0.5em;
+  width: 46vw;
+}
+
+.card-container h2 {
+  color: white;
+}
+
+.card {
+  background-color: white;
+  border: 8px white solid;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+  height: 462px;
+  margin: 1em;
+  width: 286px;
+}
+
+.cor-normal {
+  background-color: #036b52;
+  border: 6px #036b52 solid;
+  border-radius: 10px;
+  height: 420px;
+  margin: 8px auto;
+  padding: 10px;
+  position: relative;
+  top: -3px;
+}
+
+.cor-raro {
+  background-color: #036b52;
+  border: 6px #0198b3 solid;
+  border-radius: 10px;
+  height: 420px;
+  margin: 8px auto;
+  padding: 10px;
+  position: relative;
+  top: -3px;
+}
+
+.cor-muito-raro {
+  background-color: #036b52;
+  border: 6px #730396 solid;
+  border-radius: 10px;
+  height: 420px;
+  margin: 8px auto;
+  padding: 10px;
+  position: relative;
+  top: -3px;
+}
+
+.card-name {
+  background-color: #023031;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: white;
+  height: 40px;
+  padding-right: 0.5em;
+  position: relative;
+  text-align: end;
+  top: -20px;
+}
+
+.card-img {
+  height: 176px;
+  position: relative;
+  top: -20px;
+  width: 254px;
+}
+
+.card-text {
+  background-color: #036b52;
+  color: white;
+  font-size: small;
+  font-weight: 400;
+  height: 52px;
+  left: -6px;
+  overflow-wrap: break-word;
+  padding: 6px;
+  position: relative;
+  top: -70px;
+  transform: rotate(-8deg);
+  width: 254px;
+  z-index: 1;
+}
+
+.attributes {
+  background-color: white;
+  border-radius: 10px;
+  height: 170px;
+  padding-top: 50px;
+  position: relative;
+  top: -130px;
+  z-index: 0;
+}
+
+.attribute {
+  background-color: #f0f2f5;
+  border-radius: 5px;
+  margin: 18px;
+  padding: 5px;
+  text-align: justify;
+}
+
+.trunfo-true {
+  align-items: center;
+  background-color: #7a791b;
+  border: 4px yellow solid;
+  border-radius: 100%;
+  color: yellow;
+  display: flex;
+  font-size: smaller;
+  font-weight: 700;
+  height: 60px;
+  justify-content: center;
+  left: 8px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0 5px black;
+  text-transform: uppercase;
+  top: -461px;
+  transform: rotate(-15deg);
+  width: 60px;
+  z-index: 2;
+}
+
+.hide {
+  display: none;
+}
+
+/* FIM DAS REGRAS DO COMPONENTE Card.jsx */
+.cards-div {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: space-between;
+  padding: 0.5em;
+  position: sticky;
+  width: 200px;
+}
+
+.cards-display {
+  display: flex;
+  flex-flow: wrap;
+  height: max-content;
+  justify-content: center;
+  width: calc(100vw - 200px);
+}
+
+.delete-button button {
+  background-color: #036b52;
+  border: 3px #023031 solid;
+  border-radius: 5px;
+  color: white;
+  font-size: large;
+  font-weight: 700;
+  height: 30px;
+  left: 123px;
+  position: relative;
+  text-shadow: 2px 2px 2px black;
+  top: -10px;
+  width: 80px;
+}
+
+.delete-button button:hover {
+  background-color: #8f3232;
+  border: 3px #7c0c0c solid;
+}
