@@ -96,7 +96,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12.1 - Ciclo de vida de componentes
+- [x] 12.1 - _[Ciclo de vida de componentes](https://github.com/ottomicheletti/exercise-dog-image)_
 - [ ] 12.2 - React Router
 - [ ] 12.3 - Projeto - TrybeTunes
 
