@@ -97,13 +97,13 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 - [x] 12.1 - _[Ciclo de vida de componentes](https://github.com/ottomicheletti/exercise-dog-image)_
-- [x] 12.2 - _[React Router](https://github.com/ottomicheletti/exercise-pokedex-router)_
+- [x] 12.2 - React Router
 - [x] 12.3 - _[Projeto - TrybeTunes](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2012%20-%20Ciclo%20de%20Vida%20de%20Componentes%20e%20React%20Router%2FDia%2003%20-%20Projeto%20-%20TrybeTunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13.1 - Metodologias Ágeis
-- [ ] 13.2 - Projeto - Frontend Online Store
+- [x] 13.1 - Metodologias Ágeis
+- [x] 13.2 - _[Projeto - Frontend Online Store](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2013%20-%20%20Metodologias%20%C3%81geis%2FDia%2002%20-%20Projeto%20-%20Front-end%20Online%20Store)_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
