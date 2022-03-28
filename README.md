@@ -114,9 +114,9 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 15.2 - Usando o Redux no React
-- [ ] 15.3 - Usando o Redux no React - Prática
+- [x] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 15.2 - Usando o Redux no React
+- [x] 15.3 - _[Usando o Redux no React - Prática](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2015%20-%20%20Gerenciamento%20de%20estado%20com%20Redux%2FDia%2003%20-%20Usando%20o%20Redux%20no%20React%20-%20Pr%C3%A1tica)_
 - [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
 - [ ] 15.5 - Testes síncronos com React-Redux
 - [ ] 15.6 - Projeto - Trybe Wallet
