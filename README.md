@@ -107,10 +107,10 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14.1 - RTL - Primeiros passos
-- [ ] 14.2 - RTL - Mocks e Inputs
-- [ ] 14.3 - RTL - Testando React Router
-- [ ] 14.4 - Projeto - Testes em React
+- [x] 14.1 - RTL - Primeiros passos
+- [x] 14.2 - RTL - Mocks e Inputs
+- [x] 14.3 - RTL - Testando React Router
+- [x] 14.4 - _[Projeto - Testes em React](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2014%20-%20Testes%20automatizados%20com%20React%20Testing%20Library%2FDia%2004%20-%20Projeto%20-%20Testes%20em%20React)_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
