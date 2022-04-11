@@ -117,13 +117,13 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 15.1 - Introdução ao Redux - O estado global da aplicação
 - [x] 15.2 - Usando o Redux no React
 - [x] 15.3 - _[Usando o Redux no React - Prática](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2015%20-%20%20Gerenciamento%20de%20estado%20com%20Redux%2FDia%2003%20-%20Usando%20o%20Redux%20no%20React%20-%20Pr%C3%A1tica)_
-- [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 15.5 - Testes síncronos com React-Redux
-- [ ] 15.6 - Projeto - Trybe Wallet
+- [x] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 15.5 - Testes síncronos com React-Redux
+- [x] 15.6 - _[Projeto - Trybe Wallet](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2015%20-%20%20Gerenciamento%20de%20estado%20com%20Redux%2FDia%2006%20-%20Projeto%20-%20Trybe%20Wallet)_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - _[Projeto - Jogo de Trivia](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2016%20-%20Projeto%20Jogo%20de%20Trivia%2FDia%2001%20-%20Projeto%20-%20Jogo%20de%20Trivia)_
 
 ##### Bloco 17: Context API e React Hooks
 
