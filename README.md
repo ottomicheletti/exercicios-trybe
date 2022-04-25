@@ -127,10 +127,10 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 17: Context API e React Hooks
 
-- [ ] 17.1 - Context API do React
-- [ ] 17.2 - React Hooks - useState e useContext
-- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 17.1 - Context API do React
+- [x] 17.2 - React Hooks - useState e useContext
+- [x] 17.3 - React Hooks - useEffect e Hooks customizados
+- [x] 17.4 - _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%5CBloco%2017%20-%20Context%20API%20e%20React%20Hooks%5CDia%2004%20-%20Projeto%20-%20StarWars%20Datatable%20com%20Context%20API%20e%20Hooks)_
 
 ##### Bloco 18: Projeto App de Receitas
 
