@@ -134,7 +134,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18.1 - Projeto - App de Receitas
+- [x] 18.1 - _[Projeto - App de Receitas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2018%20-%20Projeto%20App%20de%20Receitas%2FDia%2001%20-%20Projeto%20-%20App%20de%20Receitas)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
