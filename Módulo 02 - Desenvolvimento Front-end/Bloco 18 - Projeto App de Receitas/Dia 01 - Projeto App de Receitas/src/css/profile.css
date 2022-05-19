@@ -1,0 +1,29 @@
+.profileContainer {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 502px;
+  justify-content: center;
+  left: 0;
+  margin: auto;
+  position: fixed;
+  top: 60px;
+  width: 360px;
+}
+
+.profileHeaderContainer {
+  text-align: center;
+}
+
+.profileNavButtonsContainer {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.profileNavButtonsContainer button {
+  margin: 10px;
+}

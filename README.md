@@ -136,14 +136,14 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 18.1 - _[Projeto - App de Receitas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2018%20-%20Projeto%20App%20de%20Receitas%2FDia%2001%20-%20Projeto%20-%20App%20de%20Receitas)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :rocket:
 
-##### Bloco 19: Docker: Utilizando Containers
+##### Bloco 19: Docker - Utilizando Containers
 
-- [ ] 19.1 - Utilizando Containers - Docker
-- [ ] 19.2 - Manipulação e Criação de Imagens no Docker
-- [ ] 19.3 - Orquestrando Containers com Docker Compose
-- [ ] 19.4 - Projeto - Docker Todo-List
+- [x] 19.1 - Utilizando Containers - Docker
+- [x] 19.2 - Manipulação e Criação de Imagens no Docker
+- [x] 19.3 - Orquestrando Containers com Docker Compose
+- [x] 19.4 - _[Projeto - Docker Todo-List](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FDia%2004%20-%20Projeto%20Docker%20To-do%20List)_
 
 ##### Bloco 20: Introdução à SQL
 
@@ -169,7 +169,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [ ] 22.5 - Express - Middlewares
 - [ ] 22.6 - Projeto - Talker manager
 
-##### Bloco 23: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+##### Bloco 23: NodeJS - Camada de Serviço e Arquitetura Rest e Restful
 
 - [ ] 23.1 - Arquitetura de Software - Camada de Model
 - [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
@@ -177,7 +177,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [ ] 23.4 - Arquitetura de Software - Testando as Camadas
 - [ ] 23.5 - Projeto - Store Manager
 
-##### Bloco 24: NodeJs: ORM e Autenticação
+##### Bloco 24: NodeJs - ORM e Autenticação
 
 - [ ] 24.1 - ORM - Interface da aplicação com o banco de dados
 - [ ] 24.2 - ORM - Associations
@@ -217,7 +217,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [ ] 29.2 - Filter Operators
 - [ ] 29.3 - Projeto - Data Flights
 
-##### Bloco 30: MongoDB: Updates Simples e Complexos
+##### Bloco 30: MongoDB - Updates Simples e Complexos
 
 - [ ] 30.1 - Updates Simples
 - [ ] 30.2 - Updates Complexos - Arrays - Parte 1
