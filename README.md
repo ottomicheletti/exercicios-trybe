@@ -80,7 +80,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 9.3 - _[Jest - Testes Assíncronos](https://github.com/ottomicheletti/exercise-magic-card)_
 - [x] 9.4 - _[Projeto - Carrinho de Compras](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2001%20-%20Fundamentos%20do%20Desenvolvimento%20Web%2FBloco%2009%20-%20JavaScript%20e%20Testes%20Ass%C3%ADncronos%2FDia%2004%20-%20Projeto%20-%20Carrinho%20de%20Compras)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :rocket:
 
 ##### Bloco 10: Introdução à React
 
@@ -136,7 +136,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 - [x] 18.1 - _[Projeto - App de Receitas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2018%20-%20Projeto%20App%20de%20Receitas%2FDia%2001%20-%20Projeto%20-%20App%20de%20Receitas)_
 
-## Desenvolvimento Back-end :rocket:
+## Desenvolvimento Back-end :hourglass:
 
 ##### Bloco 19: Docker - Utilizando Containers
 
