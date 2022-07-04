@@ -155,10 +155,10 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 21: Funções SQL, JOINs e Subqueries
 
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs
-- [ ] 21.3 - Transformando ideias em um modelo de banco de dados
-- [ ] 21.4 - Projeto - One For All
+- [x] 21.1 - Funções mais usadas no SQL
+- [x] 21.2 - Descomplicando JOINs
+- [x] 21.3 - Transformando ideias em um modelo de banco de dados
+- [x] 21.4 - _[Projeto - One For All](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FBloco%2021%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o%2FDia%2004%20-%20Projeto%20One%20for%20All)_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com NodeJS
 
