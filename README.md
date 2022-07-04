@@ -171,11 +171,11 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 23: NodeJS - Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 23.1 - Arquitetura de Software - Camada de Model
-- [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 23.3 - Arquitetura Web - Rest e Restful
-- [ ] 23.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 23.5 - Projeto - Store Manager
+- [x] 23.1 - Arquitetura de Software - Camada de Model
+- [x] 23.2 - Arquitetura de Software - Camada de Controller e Service
+- [x] 23.3 - Arquitetura Web - Rest e Restful
+- [x] 23.4 - Arquitetura de Software - Testando as Camadas
+- [x] 23.5 - _[Projeto - Store Manager](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FBloco%2023%20-%20NodeJS%20-%20Camada%20de%20Servi%C3%A7o%20e%20Arquitetura%20REST%20e%20RESTful%2FDia%2005%20-%20Projeto%20Store%20Manager)_
 
 ##### Bloco 24: NodeJs - ORM e Autenticação
 
