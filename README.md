@@ -134,7 +134,7 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [x] 18.1 - _[Projeto - App de Receitas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2018%20-%20Projeto%20App%20de%20Receitas%2FDia%2001%20-%20Projeto%20-%20App%20de%20Receitas)_
+- [x] 18.1 - _[Projeto - App de Receitas](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2002%20-%20Desenvolvimento%20Front-end%2FBloco%2018%20-%20Projeto%20App%20de%20Receitas%2FDia%2001%20-%20Projeto%20App%20de%20Receitas)_
 
 ## Desenvolvimento Back-end :hourglass:
 
@@ -143,15 +143,15 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 - [x] 19.1 - Utilizando Containers - Docker
 - [x] 19.2 - Manipulação e Criação de Imagens no Docker
 - [x] 19.3 - Orquestrando Containers com Docker Compose
-- [x] 19.4 - _[Projeto - Docker Todo-List](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FDia%2004%20-%20Projeto%20Docker%20To-do%20List)_
+- [x] 19.4 - _[Projeto - Docker Todo-List](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FBloco%2019%20-%20Docker%2FDia%2004%20-%20Projeto%20Docker%20To-do%20List)_
 
 ##### Bloco 20: Introdução à SQL
 
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [x] 20.1 - Banco de dados SQL
+- [x] 20.2 - Encontrando dados em um banco de dados
+- [x] 20.3 - Filtrando dados de forma específica
+- [x] 20.4 - Manipulando tabelas
+- [x] 20.5 - _[Projeto - All For One](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FBloco%2020%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL%2FDia%2005%20-%20Projeto%20All%20For%20One)_
 
 ##### Bloco 21: Funções SQL, JOINs e Subqueries
 
