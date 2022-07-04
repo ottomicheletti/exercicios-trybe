@@ -162,12 +162,12 @@ Repositório para guardar e monitorar todos os exercícios e projetos desenvolvi
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com NodeJS
 
-- [ ] 22.1 - NodeJS - Um motor JavaScript
-- [ ] 22.2 - NodeJS - Fluxo Assíncrono
-- [ ] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com NodeJS
-- [ ] 22.4 - Express - HTTP com Node.js
-- [ ] 22.5 - Express - Middlewares
-- [ ] 22.6 - Projeto - Talker manager
+- [x] 22.1 - NodeJS - Um motor JavaScript
+- [x] 22.2 - NodeJS - Fluxo Assíncrono
+- [x] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com NodeJS
+- [x] 22.4 - Express - HTTP com Node.js
+- [x] 22.5 - Express - Middlewares
+- [x] 22.6 - _[Projeto - Talker manager](https://github.com/ottomicheletti/exercicios-trybe/tree/main/M%C3%B3dulo%2003%20-%20Desenvolvimento%20Back-end%2FBloco%2022%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20NodeJS%2FDia%2006%20-%20Projeto%20Talker%20Manager)_
 
 ##### Bloco 23: NodeJS - Camada de Serviço e Arquitetura Rest e Restful
 
